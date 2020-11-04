@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\leong\Desktop\Nova mapa\Dependencies\GLFW\include\GLFW\glfw3.h(104): message : see previous definition of 'APIENTRY'
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(23,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(34,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(47,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(47,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(51,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(66,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\leong\Desktop\Nova mapa\Main.cpp(102,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Empty OpenGL.vcxproj -> C:\Users\leong\Desktop\Nova mapa\x64\Debug\Empty OpenGL.exe

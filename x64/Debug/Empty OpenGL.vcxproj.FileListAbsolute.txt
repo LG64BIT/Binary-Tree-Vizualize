@@ -1,0 +1,2 @@
+C:\Users\leong\Desktop\Nova mapa\x64\Debug\Empty OpenGL.exe
+C:\Users\leong\Desktop\Nova mapa\x64\Debug\Empty OpenGL.pdb
