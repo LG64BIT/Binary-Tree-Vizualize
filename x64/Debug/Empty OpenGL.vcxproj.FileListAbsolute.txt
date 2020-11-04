@@ -1,2 +1,4 @@
 C:\Users\leong\Desktop\Nova mapa\x64\Debug\Empty OpenGL.exe
 C:\Users\leong\Desktop\Nova mapa\x64\Debug\Empty OpenGL.pdb
+C:\Users\leong\Desktop\AISP\AISP_ferit\x64\Debug\Empty OpenGL.exe
+C:\Users\leong\Desktop\AISP\AISP_ferit\x64\Debug\Empty OpenGL.pdb
